@@ -1,0 +1,28 @@
+# Virtual Environment
+traf_env/
+venv/
+env/
+
+# Data & Videos
+data/
+datasets/
+*.mp4
+*.avi
+
+# YOLO / ML Models
+*.pt
+*.h5
+*.weights
+
+# Training Outputs
+runs/
+logs/
+tuner_logs_multi/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS / Editor
+.vscode/
+.DS_Store
