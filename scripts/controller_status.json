@@ -1,0 +1,32 @@
+{
+  "timestamp": "2025-12-19T16:33:39.122389",
+  "active_lane": 1,
+  "remaining_time": 1,
+  "reason": "Initialization",
+  "weather": {
+    "temp": 30.0,
+    "humidity": 50.0,
+    "wind_speed": 11.6,
+    "rain_mm": 0.0
+  },
+  "lanes": [
+    {
+      "lane": 1,
+      "count_now": 18,
+      "forecast_10": 36,
+      "forecast_30": 38,
+      "forecast_60": 38,
+      "emergency": true,
+      "anomaly": true
+    },
+    {
+      "lane": 2,
+      "count_now": 10,
+      "forecast_10": 35,
+      "forecast_30": 38,
+      "forecast_60": 38,
+      "emergency": true,
+      "anomaly": true
+    }
+  ]
+}

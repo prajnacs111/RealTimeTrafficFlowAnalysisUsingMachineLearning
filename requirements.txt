@@ -1,0 +1,41 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Computer vision
+opencv-python
+pillow
+
+# YOLOv8 (Ultralytics)
+ultralytics
+
+# Deep learning (PyTorch) - install matching your system
+torch
+torchvision
+torchaudio
+
+# Forecasting & deep learning utilities
+tensorflow==2.16.1  # (optional, if you prefer TF/Keras for LSTM)
+keras==3.3.3
+
+# API and backend
+flask
+flask-socketio
+requests
+
+# Dashboard & visualization
+plotly
+dash
+
+# Anomaly detection & ML extras
+scipy
+statsmodels
+
+# Weather API (OpenWeatherMap)
+pyowm
+
+# Others
+tqdm

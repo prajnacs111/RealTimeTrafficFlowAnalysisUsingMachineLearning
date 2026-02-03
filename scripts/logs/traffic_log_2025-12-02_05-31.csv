@@ -1,0 +1,6 @@
+timestamp,frame,fps,person,car,bus,truck,motorcycle,bicycle,emergency_vehicle,siren_detected,total_vehicle_count
+2025-12-02 05:31:13,1,30.0,0,0,0,0,0,0,0,AMBULANCE,0
+2025-12-02 05:31:15,2,30.0,0,0,0,0,0,0,1,AMBULANCE,1
+2025-12-02 05:31:16,3,30.0,0,0,0,0,0,0,0,AMBULANCE,0
+2025-12-02 05:31:18,4,30.0,1,0,0,0,0,0,0,AMBULANCE,1
+2025-12-02 05:31:19,5,30.0,0,0,0,0,0,0,0,AMBULANCE,0
